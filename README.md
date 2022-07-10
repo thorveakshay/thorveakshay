@@ -9,7 +9,7 @@
  
 </p>
 
-### Hi there 👋 I'm [Akshay!](www.akshaythorve.com)
+### Hi there 👋 I'm Akshay!
 
 ## I'm a Senior Software Engineer at PayPal
 
