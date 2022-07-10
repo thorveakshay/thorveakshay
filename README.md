@@ -1,11 +1,11 @@
 
 ### Hi there 👋 I'm [Akshay!](https://github.com/Danushka2/Danushka2/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Senior Software Engineer at PayPal
 
 - 👨‍💻 I’m currently working on building core payments platform at PayPal using Java, Spring and many other technologies.
+- 📍 Currently in <b> San Francisco Bay Area</b>
 - 📚 I like reading books, learning about new technologies, trying out new stuff and spin personal projects just for fun.
 - ⚡ Fun fact: I like hiking, being in nature and a good coffee!
 
@@ -38,11 +38,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
-<br>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    bg_color=#808080/></p>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
+    bg_color=#808080/>
 
 <br>
 
@@ -63,6 +62,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br>
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ##### Profile Views
 <img src="https://komarev.com/ghpvc/?username=thorveakshay&label=Profile%20views&color=0e75b6&style=flat"/> 
