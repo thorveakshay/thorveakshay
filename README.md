@@ -1,10 +1,21 @@
 
-### Hi there 👋 I'm [Akshay!](https://github.com/Danushka2/Danushka2/)
 
+
+
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/akshaythorve/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="www.akshaythorve.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+    
+
+    
+</p>
+
+### Hi there 👋 I'm [Akshay!](www.akshaythorve.com)
 
 ## I'm a Senior Software Engineer at PayPal
 
-- 👨‍💻 I’m currently working on building core payments platform at PayPal using Java, Spring and many other technologies.
+- 👨‍💻 I’m currently working on building core payments platform at **PayPal** using Java, Spring and many other technologies.
 - 📍 Currently in <b> San Francisco Bay Area</b>
 - 📚 I like reading books, learning about new technologies, trying out new stuff and spin personal projects just for fun.
 - ⚡ Fun fact: I like hiking, being in nature and a good coffee!
@@ -31,7 +42,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -45,7 +55,7 @@
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=thorveakshay&label=Profile%20views&color=0e75b6&style=flat"/> 
 
 <!--
 **thorveakshay/thorveakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
