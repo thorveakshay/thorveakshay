@@ -47,10 +47,10 @@
 <br/>
 
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thorveakshay&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thorveakshay&theme=dark&background=000000)](https://github.com/thorveakshay?tab=repositories)
 
 <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,javascript"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
     bg_color=#808080/>
 
 <br>
