@@ -1,14 +1,12 @@
 
-
-
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/akshaythorve/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" alt="LinkedIn Badge"></a>
-<a href="https://www.akshaythorve.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noopener noreferrer" alt="Website"></a>
+<a href="https://www.linkedin.com/in/akshaythorve/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" alt="LinkedIn Profile" title="LinkedIn Profile"></a>
+<a href="mailto:thorveakshay@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.akshaythorve.com/" target="_blank"><img src="https://img.shields.io/badge/website-5094f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal portolio" title="Personal portolio"></a>
     
-
-    
+ 
+ 
 </p>
 
 ### Hi there 👋 I'm [Akshay!](www.akshaythorve.com)
@@ -48,9 +46,11 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
+### My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thorveakshay&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thorveakshay&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,javascript"
     bg_color=#808080/>
 
 <br>
